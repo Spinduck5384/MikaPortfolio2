@@ -1,6 +1,8 @@
 /*Master Styles*/
 body {
     margin: 0px;
+    height: auto;
+    background-color: lightblue;
 }
 .container {
     display: grid;
