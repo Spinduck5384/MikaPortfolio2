@@ -91,6 +91,10 @@ body {
     transition:1s;
     filter:brightness(10%);
 }
+.img-brighten {
+    transition:1s;
+    filter:brightness(100%);
+}
 /*About Page Styles*/
 .two-column-wrapper {
     display:grid;
